@@ -6,5 +6,5 @@
 <h2><a href="https://youthfultvman101.github.io/Custom-Commands/">Custom Commands</a></h2>
   A list of what every custom command does!
 
-<h2><a href="https://youthfultvman101.github.io/Colored-Cicles/">Colored Cicles</a></h2>
+<h2><a href="https://youthfultvman101.github.io/Colored-Circles/">Colored Circles</a></h2>
   A list of what every colored cicle is used for and what they mean!
