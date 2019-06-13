@@ -9,6 +9,9 @@
 <h2><a href="https://youthfultvman101.github.io/Custom-Commands/">Custom Commands</a></h2>
   A list of what every custom command does!
 
+<h2><a href="https://discord.gg/bjfn86h">Discord Invite</a></h2>
+  Somehow haven't joined the server yet? Join here!
+
 <h2><a href="https://youthfultvman101.github.io/Leaderboards/">Leaderboards</a></h2>
   The top Oofs Of Robloxia users!
 
