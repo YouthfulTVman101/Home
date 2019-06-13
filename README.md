@@ -8,3 +8,6 @@
 
 <h2><a href="https://youthfultvman101.github.io/Colored-Circles/">Colored Circles</a></h2>
   A list of what every colored cicle is used for and what they mean!
+
+<h2><a href="https://youthfultvman101.github.io/Leaderboards/">Leaderboards</a></h2>
+  The top Oofs Of Robloxia users!
