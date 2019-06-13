@@ -11,3 +11,6 @@
 
 <h2><a href="https://youthfultvman101.github.io/Leaderboards/">Leaderboards</a></h2>
   The top Oofs Of Robloxia users!
+
+<h2><a href="https://youthfultvman101.github.io/Changelog/">Changelog</a></h2>
+  The history of Oofs Of Robloxia's updates
