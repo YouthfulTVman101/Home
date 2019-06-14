@@ -15,5 +15,8 @@
 <h2><a href="https://youthfultvman101.github.io/Leaderboards/">Leaderboards</a></h2>
   The top Oofs Of Robloxia users!
 
+<h2><a href="https://youthfultvman101.github.io/Punishments/">Punishments</a></h2>
+  The consequences for breaking a rule
+
 <h2><a href="https://youthfultvman101.github.io/Roles/">Roles</a></h2>
   A list of every role in Oofs Of Robloxia and how to obtain them!
