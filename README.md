@@ -12,7 +12,7 @@
 <h2><a href="https://discord.gg/bjfn86h">Discord Invite</a></h2>
   Somehow haven't joined the server yet? Join here!
 
-<h2><a href="https://youthfultvman101.github.io/WIP/">Frequently Asked Questions</a></h2>
+<h2><a href="https://youthfultvman101.github.io/FAQ/">Frequently Asked Questions</a></h2>
   Got a specific question you need answered?
 
 <h2><a href="https://youthfultvman101.github.io/Leaderboards/">Leaderboards</a></h2>
