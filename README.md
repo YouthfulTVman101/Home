@@ -24,7 +24,7 @@
 <h2><a href="https://youthfultvman101.github.io/Punishments/">Punishments</a></h2>
   The consequences for breaking a rule
 
-<h2><a href="https://youthfultvman101.github.io/WIP/">Roblox Groups</a></h2>
+<h2><a href="https://youthfultvman101.github.io/Roblox-Groups/">Roblox Groups</a></h2>
   Main groups owned by staff members, including the special Oofs Of Robloxia group!
 
 <h2><a href="https://youthfultvman101.github.io/Roles/">Roles</a></h2>
