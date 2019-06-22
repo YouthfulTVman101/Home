@@ -3,7 +3,7 @@
 <h2><a href="https://youthfultvman101.github.io/Changelog/">Changelog</a></h2>
   The history of Oofs Of Robloxia's updates
 
-<h2><a href="https://youthfultvman101.github.io/Social Media">Check Out Our Community</a></h2>
+<h2><a href="https://youthfultvman101.github.io/WIP">Check Out Our Community</a></h2>
   Check out the Oofs Of Robloxia community on social media!
 
 <h2><a href="https://youthfultvman101.github.io/Colored-Circles/">Colored Circles</a></h2>
